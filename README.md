@@ -1,10 +1,21 @@
-## Hello there 👋
+## Hey there!
 
 I'm Meghna, I love building cool stuff.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&count_private=true&include_all_commits=true&show=stars,prs,issues,followers&theme=tokyonight" />
+  
+  <!-- Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=meghnarav&theme=tokyonight" />
+
+  <!-- WakaTime Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=meghnarav&theme=tokyonight" />
 </p>
 
 ---
@@ -18,12 +29,17 @@ I'm Meghna, I love building cool stuff.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghnarav) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meghnarav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghnarav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meghnarav)
 
 ---
 
 > “Dive in.” 🚀
+
 
 
 <!--
