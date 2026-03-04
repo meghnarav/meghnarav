@@ -1,11 +1,11 @@
-## Hello there 👋
+## Hello, World! 👋🌏
 
-I'm Meghna, I love building cool stuff.
-
+### I'm Meghna, I love coffee and building cool stuff ☕✨
+<!--
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&hide_border=true" />
+</p> -->
 
 ---
 
@@ -18,11 +18,11 @@ I'm Meghna, I love building cool stuff.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔭 I'm Interested In
+<! -- ## 🔭 I'm Interested In
 - FinTech
 - Distributed Systems
 - Web Dev
-- AI/ML
+- AI/ML -->
 
 
 ## 📫 Connect with Me
