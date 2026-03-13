@@ -1,6 +1,5 @@
-## Hello, World! 👋🌏
-
-### I'm Meghna
+<h2>Hello, World! 👋🌏 </h2> 
+<h3>I'm Meghna</h3>
 
 >I love coffee and building cool stuff ☕✨
 
@@ -27,11 +26,18 @@
 </p>
 
 ## My Stats
+  ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=aura&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake.svg">
+</picture> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>-->
 
-![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=aura&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)
-
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
