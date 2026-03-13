@@ -29,8 +29,8 @@
 ## My Stats
 
 ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=aura&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
