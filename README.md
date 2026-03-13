@@ -13,6 +13,8 @@
 </p>
 
 ## 🌱 I'm Learning
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,14 +23,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
 
 ## My Stats
+<div align="center">
+  
   ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=aura&hide_border=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)
+  
+</div>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake.svg">
