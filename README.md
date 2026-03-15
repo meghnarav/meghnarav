@@ -37,13 +37,19 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)  
   
 </div>
-<!-- <picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake.svg">
-</picture> 
+</picture>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>-->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meghnarav&color=a277ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
   
 <p align="center">
