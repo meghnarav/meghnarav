@@ -1,21 +1,24 @@
-<h2>Hello, World! 👋🌏 </h2> 
-<h3>I'm Meghna</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=200&section=header&text=Meghna%20Ravikumar&fontSize=70&fontColor=15141b&animation=fadeIn" />
 
->I love coffee and building cool stuff ☕✨
+  <br/>
 
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&hide_border=true" />
-</p> -->
+  > I love coffee and building cool stuff ☕✨
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=meghnarav&color=a277ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
 
-## 🌱 I'm Learning
+## 🛠️ Tech Stack
+
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -29,7 +32,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
 
-## My Stats
+## 📊 My Stats
+
 <div align="center">
   
   ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true)
@@ -38,6 +42,11 @@
   
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+</p>
+
+## 🐍 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meghnarav/meghnarav/output/github-contribution-grid-snake.svg">
@@ -46,22 +55,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=meghnarav&color=a277ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
-</p>
-
-<!-- ## 🔭 I'm Interested In
-- FinTech
-- Distributed Systems
-- Web Dev
-- AI/ML -->
-
 
 ## 📫 Connect with Me
 
@@ -79,8 +72,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
 </p>
 
-> “Dive in.” 🚀
+<div align="center">
+    <br/>
 
+  > "TAKE ACTION"
+  
+  <br/>
+
+</div>
 
 <!-- **meghnarav/meghnarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
