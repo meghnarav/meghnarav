@@ -76,7 +76,7 @@
 <div align="center">
     <br/>
 
-  > "TAKE ACTION"
+  > <b>TAKE ACTION. DIVE IN. <b>
   
   <br/>
 
