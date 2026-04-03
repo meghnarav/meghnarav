@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a277ff&height=200&section=header&text=Meghna%20Ravikumar&fontSize=70&fontColor=15141b&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2eb398&height=200&section=header&text=Meghna%20Ravikumar&fontSize=70&fontColor=15141b&animation=fadeIn" />
 
   <br/>
 
@@ -7,11 +7,11 @@
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=meghnarav&color=a277ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meghnarav&color=2eb398&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 ## 📊 My Stats
@@ -42,7 +42,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 ## 🐍 Contribution Graph
@@ -53,23 +53,23 @@
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 ## 📫 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a277ff?style=for-the-badge&logo=linkedin&logoColor=15141b)](https://www.linkedin.com/in/meghna-ravikumar) 
-[![GitHub](https://img.shields.io/badge/GitHub-a277ff?style=for-the-badge&logo=github&logoColor=15141b)](https://github.com/meghnarav)
-[![X](https://img.shields.io/badge/X-a277ff?style=for-the-badge&logo=x&logoColor=15141b)](https://x.com/meghnarav)
-[![Discord](https://img.shields.io/badge/Discord-a277ff?style=for-the-badge&logo=discord&logoColor=15141b)](https://discord.com/users/meghna_ravikumar)
-[![Email](https://img.shields.io/badge/Email-a277ff?style=for-the-badge&logo=gmail&logoColor=15141b)](mailto:meghnaravikumar06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2eb398?style=for-the-badge&logo=linkedin&logoColor=15141b)](https://www.linkedin.com/in/meghna-ravikumar) 
+[![GitHub](https://img.shields.io/badge/GitHub-2eb398?style=for-the-badge&logo=github&logoColor=15141b)](https://github.com/meghnarav)
+[![X](https://img.shields.io/badge/X-2eb398?style=for-the-badge&logo=x&logoColor=15141b)](https://x.com/meghnarav)
+[![Discord](https://img.shields.io/badge/Discord-2eb398?style=for-the-badge&logo=discord&logoColor=15141b)](https://discord.com/users/meghna_ravikumar)
+[![Email](https://img.shields.io/badge/Email-2eb398?style=for-the-badge&logo=gmail&logoColor=15141b)](mailto:meghnaravikumar06@gmail.com)
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 ## ©️ Copyright
@@ -78,7 +78,7 @@
 - No part of this software may be reproduced or distributed without permission.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=a277ff&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
 
