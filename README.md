@@ -81,6 +81,8 @@
 
 </div>
 
+Copyright (c) 2026 Meghna Ravikumar. All rights reserved. No part of this software may be reproduced or distributed without permission.
+
 <!-- **meghnarav/meghnarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
