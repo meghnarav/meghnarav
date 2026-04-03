@@ -35,9 +35,9 @@
 
 <div align="center">
   
-  ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=aura&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=aura&hide_border=true)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=aura&hide_border=true)  
+  ![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnarav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnarav&layout=compact&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=tokyonight&hide_border=true)  
   
 </div>
 
