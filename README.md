@@ -62,7 +62,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2eb398?style=for-the-badge&logo=linkedin&logoColor=15141b)](https://www.linkedin.com/in/meghna-ravikumar) 
 [![GitHub](https://img.shields.io/badge/GitHub-2eb398?style=for-the-badge&logo=github&logoColor=15141b)](https://github.com/meghnarav)
-[![X](https://img.shields.io/badge/X-2eb398?style=for-the-badge&logo=x&logoColor=15141b)](https://x.com/meghnarav)
+[![Twitter/X](https://img.shields.io/badge/X-2eb398?style=for-the-badge&logo=x&logoColor=15141b)](https://x.com/meghnarav)
 [![Discord](https://img.shields.io/badge/Discord-2eb398?style=for-the-badge&logo=discord&logoColor=15141b)](https://discord.com/users/meghna_ravikumar)
 [![Email](https://img.shields.io/badge/Email-2eb398?style=for-the-badge&logo=gmail&logoColor=15141b)](mailto:meghnaravikumar06@gmail.com)
 
