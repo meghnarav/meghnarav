@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2eb398&height=200&section=header&text=Meghna%20Ravikumar&fontSize=70&fontColor=15141b&animation=fadeIn" />
-
+  <h1>Meghna Ravikumar</h1>
   <br/>
+  <b>Hello, World!</b><br/>
+  <b>I build backend systems where things break under pressure and fix them.</b> 
 
-  <b>Backend engineer building high-concurrency, fault-tolerant systems</b> 
-  
-  <br/>
-  
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=meghnarav&color=2eb398&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
@@ -64,9 +62,8 @@
 ## My Stats
 
 <div align="center">
-  
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meghnarav&theme=tokyonight&hide_border=true)  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghnarav&theme=tokyonight" width="75%" />
+</div>
   
 </div>
 
@@ -78,7 +75,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2eb398?style=for-the-badge&logo=linkedin&logoColor=15141b)](https://www.linkedin.com/in/meghna-ravikumar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2eb398?style=for-the-badge&logo=linkedin&logoColor=15141b)](https://www.linkedin.com/in/meghna-ravikumar)
 [![GitHub](https://img.shields.io/badge/GitHub-2eb398?style=for-the-badge&logo=github&logoColor=15141b)](https://github.com/meghnarav)
 [![Twitter/X](https://img.shields.io/badge/X-2eb398?style=for-the-badge&logo=x&logoColor=15141b)](https://x.com/meghnarav)
 [![Discord](https://img.shields.io/badge/Discord-2eb398?style=for-the-badge&logo=discord&logoColor=15141b)](https://discord.com/users/meghna_ravikumar)
@@ -93,7 +90,7 @@
 <div align="center">
     <br/>
 
-  > <b>TAKE ACTION. DIVE IN. <b>
+  > <b>TAKE ACTION. DIVE IN. </b>
   
   <br/>
 
