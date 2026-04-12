@@ -14,27 +14,31 @@
 
 ## What I’m Building
 
-### High-Concurrency Ticket Booking System *(in progress)*
-- Preventing double booking under concurrent requests  
-- Exploring optimistic locking + transactional guarantees  
-- Simulating high request loads  
+### 1. High-Throughput Reservation Engine
+**Repo:** [high-throughput-reservation](https://github.com/meghnarav/high-throughput-reservation) | **Stack:** Java 21, Redis, PostgreSQL, k6
+* **The Problem:** Solving the "Thundering Herd" and race conditions in high-demand resource allocation (e.g., 10k+ TPS ticketing spikes).
+* **Systems Approach:** Moving beyond DB-level locking by implementing a **Virtual Waiting Room** (Redis Sorted Sets) and **Atomic Decrement Orchestration** via Redis Lua scripts.
+* **The Flex:** Comparative analysis of **Optimistic vs. Pessimistic vs. Distributed Locking (Redlock)** performance under simulated saturation.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### Financial Ledger with Anomaly Detection *(in progress)*
-- Double-entry accounting system with strict consistency  
-- Idempotent transaction APIs to prevent duplicates  
-- Integrating anomaly detection for suspicious activity  
+### 2. Event-Sourced Financial Ledger
+**Repo:** [event-sourced-ledger](https://github.com/meghnarav/event-sourced-ledger) | **Stack:** Java 21, PostgreSQL, Python (ML)
+* **The Problem:** Ensuring 100% data integrity and auditability in high-stakes transaction environments where standard CRUD updates are insufficient.
+* **Systems Approach:** Implementing a **strictly consistent append-only event store**. System state is treated as a projection of the immutable transaction log, allowing for "time-travel" debugging and state replay.
+* **The Flex:** **Idempotency-as-a-First-Class-Citizen** using request hashing and an **AI Audit Sidecar** (Isolation Forest) to flag anomalous transaction patterns in the event stream.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### Distributed Rate Limiter *(in progress)*
-- Implementing sliding window rate limiting  
-- Optimizing for low latency under high throughput  
+### 3. Inference Token Gateway
+**Repo:** [inference-token-gateway](https://github.com/meghnarav/inference-token-gateway) | **Stack:** Golang, gRPC, Redis, Milvus (Vector DB)
+* **The Problem:** Managing the cost, latency, and rate-limit complexities of production LLM infrastructure.
+* **Systems Approach:** A high-performance Go proxy that implements **Token-based Rate Limiting** (sliding window) and multi-provider request orchestration.
+* **The Flex:** **Semantic Caching** using vector similarity search to intercept redundant prompts, reducing LLM API overhead by serving cached high-confidence matches.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
@@ -44,16 +48,15 @@
 
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 </div>
 
