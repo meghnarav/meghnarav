@@ -12,31 +12,33 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
-<!-- ## What I’m Building
-
-> Focused on backend systems, concurrency, and scalable architectures
+## What I’m Building
 
 ### High-Concurrency Ticket Booking System *(in progress)*
 - Preventing double booking under concurrent requests  
 - Exploring optimistic locking + transactional guarantees  
 - Simulating high request loads  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
+</p>
 
 ### Financial Ledger with Anomaly Detection *(in progress)*
 - Double-entry accounting system with strict consistency  
 - Idempotent transaction APIs to prevent duplicates  
 - Integrating anomaly detection for suspicious activity  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
+</p>
 
-### ⚡ Distributed Rate Limiter *(in progress)*
+### Distributed Rate Limiter *(in progress)*
 - Implementing sliding window rate limiting  
 - Optimizing for low latency under high throughput  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
-</p> -->
+</p>
 
 ## Tech Stack
 
