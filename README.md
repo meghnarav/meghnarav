@@ -90,14 +90,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
-#### ©️ Copyright
-<h6> Copyright (c) 2026 Meghna Ravikumar. All rights reserved. No part of this software may be reproduced or distributed without permission. </h6>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
-</p>
-
-
 <div align="center">
     <br/>
 
