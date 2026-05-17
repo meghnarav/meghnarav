@@ -2,7 +2,7 @@
   <h1>Meghna Ravikumar</h1>
   <br/>
   <b>Hello, World!</b><br/>
-  <b>I build backend systems where things break under pressure and fix them.</b> 
+  <b>I build systems with a product-focused mindset.</b> 
 
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=meghnarav&color=2eb398&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -66,6 +66,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 -->
+
 ## My Stats
 
 <div align="center">
