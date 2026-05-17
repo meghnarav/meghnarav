@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
--->
+
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
-
+-->
 ## My Stats
 
 <div align="center">
