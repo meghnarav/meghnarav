@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Meghna Ravikumar</h1>
-  <p>Backend & systems development · Concurrency, APIs, and data integrity</p>
+  <p>Backend & distributed systems · Concurrency, AI infrastructure, and data integrity</p>
 </div>
 
 <p align="center">
@@ -19,11 +19,34 @@ A ticket booking service built to test how well applications hold up under flash
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [ohmnic](https://github.com/meghnarav/ohmnic)
-A real-time telemetry pipeline for streaming EV battery sensor data.
-- Ingests high-frequency time-series points through a serverless pipeline with minimal ingestion delay.
-- Runs live anomaly detection on battery metrics and uses SHAP values to flag what caused an irregular reading.
-- **Stack:** TypeScript, Serverless, Python (ML)
+### [Inference Token Gateway](https://github.com/meghnarav/inference-token-gateway))
+A high-throughput distributed gateway built to govern and meter enterprise LLM workloads.
+- Enforces multi-tenant rate limits using Redis sliding-window algorithms and guarantees request-level idempotency under heavy concurrent loads.
+- Implements semantic response caching to eliminate duplicate model queries, lowering downstream token burn and API latency.
+- Features multi-tenant quota enforcement, granular usage metering, and tamper-resistant audit logging.
+- **Stack:** Java 21, Spring Boot, Redis, PostgreSQL, Docker
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
+</p>
+
+### [Auto-RFP](https://github.com/meghnarav/auto-rfp)
+An enterprise RAG engine and compliance automation platform for unstructured procurement data.
+- Employs a multi-stage retrieval architecture (semantic vector search paired with cross-encoder re-ranking) boosting clause retrieval precision by 35%.
+- Enforces strict deterministic outputs via Pydantic schema validation, citation grounding, and automated hallucination verification.
+- Cuts proposal drafting and validation turnaround by 70% across enterprise RFP workflows.
+- **Stack:** Python, LangChain, ChromaDB/FAISS, Sentence-Transformers, FastAPI, Pydantic
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
+</p>
+
+### [Ωhm-nic](https://github.com/meghnarav/ohmnic)
+A serverless EV telemetry ingestion pipeline and explainable anomaly detection engine.
+- Streams and processes high-frequency operational telemetry through a serverless event pipeline with sub-second latency.
+- Runs real-time ML anomaly detection over streaming sensor metrics to flag operational deviations.
+- Integrates SHAP (SHapley Additive exPlanations) to provide auditable, feature-level interpretability behind every flag.
+- **Stack:** TypeScript, Python, AWS Lambda, Streaming Pipelines, SHAP
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
@@ -33,10 +56,13 @@ A real-time telemetry pipeline for streaming EV battery sensor data.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
@@ -49,8 +75,6 @@ A real-time telemetry pipeline for streaming EV battery sensor data.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghnarav&theme=tokyonight" width="75%" />
 </div>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
