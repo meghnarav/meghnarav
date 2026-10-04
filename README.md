@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Meghna Ravikumar</h1>
   <p>Backend & distributed systems · Concurrency, AI infrastructure, and data integrity</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meghnarav&label=Profile%20Views&color=2eb398&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 <p align="center">
