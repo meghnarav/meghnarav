@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Meghna Ravikumar</h1>
   <p>Backend & distributed systems · Concurrency, AI infrastructure, and data integrity</p>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meghnarav&label=Profile%20Views&color=2eb398&style=for-the-badge" alt="Profile Views" />
-  </p>
 </div>
 
 <p align="center">
@@ -73,15 +70,19 @@ A serverless EV telemetry ingestion pipeline and explainable anomaly detection e
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
 
+
 ## Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meghnarav&label=Profile%20Views&color=2eb398&style=flat-square" alt="Profile Views" />
+  <br /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meghnarav&theme=tokyonight" width="75%" />
 </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=2&section=header" width="100%" />
 </p>
+
 
 ## Connect
 
