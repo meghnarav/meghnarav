@@ -19,7 +19,7 @@ A ticket booking service built to test how well applications hold up under flash
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [Inference Token Gateway](https://github.com/meghnarav/inference-token-gateway))
+### [Inference Token Gateway](https://github.com/meghnarav/inference-token-gateway)
 A high-throughput distributed gateway built to govern and meter enterprise LLM workloads.
 - Enforces multi-tenant rate limits using Redis sliding-window algorithms and guarantees request-level idempotency under heavy concurrent loads.
 - Implements semantic response caching to eliminate duplicate model queries, lowering downstream token burn and API latency.
