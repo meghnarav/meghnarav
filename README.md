@@ -9,7 +9,7 @@
 
 ## Featured Projects
 
-### [Ωhm-nic](https://github.com/meghnarav/ohmnic)
+### [Ωhm-nic](https://github.com/meghnarav/ohmnic) [![Live Demo](https://img.shields.io/badge/Live_Demo-2eb398?style=flat-square&logo=vercel&logoColor=15141b)](https://ohmnic.vercel.app/)
 **Serverless telemetry ingestion pipeline and explainable anomaly detection engine.**
 - Streams and processes high-frequency EV operational telemetry through a serverless AWS event pipeline with sub-second latency.
 - Runs real-time ML anomaly detection (Isolation Forest) over streaming sensor metrics to flag operational deviations.
@@ -20,7 +20,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [credit-model-drift](https://github.com/meghnarav/credit-model-drift)
+### [credit-model-drift](https://github.com/meghnarav/credit-model-drift) [![Live Demo](https://img.shields.io/badge/Live_Demo-2eb398?style=flat-square&logo=vercel&logoColor=15141b)](https://credit-model-drift.vercel.app/)
 **Quantifying the fragility of algorithmic recourse under macroeconomic covariate shift.**
 - Evaluated disparate invalidation rates across borrower subgroups using the FICO HELOC dataset.
 - Applied DiCE (Diverse Counterfactual Explanations) and SHAP to audit model behavior under simulated credit drift.
@@ -30,7 +30,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [bus-mate](https://github.com/meghnarav/bus-mate)
+### [bus-mate](https://github.com/meghnarav/bus-mate) [![Live Demo](https://img.shields.io/badge/Live_Demo-2eb398?style=flat-square&logo=vercel&logoColor=15141b)](https://frontend-pwa-drab.vercel.app/)
 **Real-time college transit tracking application.**
 - Built a practical, user-facing application allowing students to track college bus locations dynamically.
 - Focused on delivering a clean, accessible interface for daily campus utility and commute optimization.
@@ -40,7 +40,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [payment-gateway-routing](https://github.com/meghnarav/payment-gateway-routing)
+### [payment-gateway-routing](https://github.com/meghnarav/payment-gateway-routing) [![Live Demo](https://img.shields.io/badge/Live_Demo-2eb398?style=flat-square&logo=vercel&logoColor=15141b)](https://payment-gateway-routing.vercel.app/)
 **Health-aware payment routing engine optimizing transaction success across multiple providers.**
 - Dynamically routes transactions and detects provider recovery using an $\epsilon$-Greedy Multi-Armed Bandit over 15-minute Redis rolling health windows.
 - Decouples high-throughput webhook ingestion from durable PostgreSQL state using an asynchronous Redis Pub/Sub worker pipeline.
