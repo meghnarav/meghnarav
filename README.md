@@ -40,11 +40,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
 </p>
 
-### [Inference Token Gateway](https://github.com/meghnarav/inference-token-gateway)
-**A high-throughput distributed gateway built to govern enterprise LLM workloads.**
-- Enforces multi-tenant rate limits using Redis sliding-window algorithms and guarantees request-level idempotency under heavy loads.
-- Implements semantic response caching to eliminate duplicate model queries, lowering API latency.
-- **Stack:** Java 21, Spring Boot, Redis, PostgreSQL, Docker
+### [payment-gateway-routing](https://github.com/meghnarav/payment-gateway-routing)
+**Health-aware payment routing engine optimizing transaction success across multiple providers.**
+- Dynamically routes transactions and detects provider recovery using an $\epsilon$-Greedy Multi-Armed Bandit over 15-minute Redis rolling health windows.
+- Decouples high-throughput webhook ingestion from durable PostgreSQL state using an asynchronous Redis Pub/Sub worker pipeline.
+- Visualizes real-time traffic splits, outage simulations, and statistical significance via a Bauhaus-styled Next.js telemetry dashboard.
+- **Stack:** Python, FastAPI, TypeScript, Next.js, Redis, PostgreSQL, Prometheus, Docker
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2eb398&height=1&section=header" width="98%" />
